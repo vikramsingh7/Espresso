@@ -1,0 +1,5 @@
+x = 24
+l = 44
+read k
+read y
+print x + l + k + l
