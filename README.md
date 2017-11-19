@@ -6,7 +6,7 @@
 
 
 # Overview 
-Espresso is a very basic programming language and the Interpreter is written in java. This language can be used to write scripts that perform complicated calculations in very customized way.
+Espresso is a very basic programming language and the Interpreter of Espresso is written in java. This language can be used to write scripts that perform complicated calculations in very customized way.
 Download the source code and contribute to expand the functionalities of Espresso
 
 ### Below is the layout and functionalities of Espresso
