@@ -6,8 +6,10 @@
 
 
 # Overview 
-Espresso is a very basic programming language built in java with few but important functionalities. This language can be used to write  scripts that perform complicated calculation in very customized way.This is the source code of the interpreter that Interprets the espresso language statement. Anyone can write very simple script with this language and customize the process of any complex calculation.
+Espresso is a very basic programming language and the Interpreter is written in java. This language can be used to write scripts that perform complicated calculations in very customized way.
+Download the source code and contribute to expand the functionalities of Espresso
 
+### Below is the layout and functionalities of Espresoo
 ## Valid Keywords
 - Read: This keyword reads a variablename and prompts a message asking for the value of 
 that variable.
@@ -91,17 +93,10 @@ Espresso Language supports the .esp extension. Every script file should be saved
 ###### Open your terminal
 - Since the main function is located in ESPInterpreter.java class
 ` javac ESPInterpreter.java `
-- Here we will Interpret our Espresso script
- ` java ESPInterpreter sample.esp`
-- Output will be the result of your source code
+- Running our Espresso script 
+ ` java ESPInterpreter sample.esp` 
+- Output will be the result of your source code 
 
 
-## Tests
 
-- hi
-* he
-```
-dsafj
-
-```
 
